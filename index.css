@@ -1,0 +1,9 @@
+body {
+  background-color: green;
+  color: teal;
+}
+header {
+  background-color: teal;
+  color: black;
+  padding: 20px;
+}
